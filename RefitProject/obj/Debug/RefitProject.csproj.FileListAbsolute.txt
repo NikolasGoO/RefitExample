@@ -27,3 +27,32 @@ C:\Users\Usuario\Documents\Projeto Integrador\RefitProject\RefitProject\obj\Debu
 C:\Users\Usuario\Documents\Projeto Integrador\RefitProject\RefitProject\obj\Debug\RefitPro.D8C54DE0.Up2Date
 C:\Users\Usuario\Documents\Projeto Integrador\RefitProject\RefitProject\obj\Debug\RefitProject.exe
 C:\Users\Usuario\Documents\Projeto Integrador\RefitProject\RefitProject\obj\Debug\RefitProject.pdb
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\RefitProject.exe.config
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\RefitProject.exe
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\RefitProject.pdb
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Refit.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\Refit.HttpClientFactory.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\obj\Debug\RefitProject.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\obj\Debug\RefitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\obj\Debug\RefitProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\obj\Debug\RefitPro.D8C54DE0.Up2Date
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\obj\Debug\RefitProject.exe
+C:\Users\Aluno\Downloads\RefitProject\RefitProject\obj\Debug\RefitProject.pdb

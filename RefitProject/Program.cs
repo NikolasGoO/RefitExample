@@ -23,6 +23,8 @@ namespace RefitProject
             while (response == "y" || response == "Y")
             {
                 Console.WriteLine("Chuck Norris Joke: " + jokeResponse.Value);
+                Console.WriteLine("\n\nDo you want another joke?\nPress Y for Yes\nPress another key for No\n");
+                response = Console.ReadLine();
             }
 
             Console.WriteLine("Bye! Bye!");
